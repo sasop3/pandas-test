@@ -1,0 +1,3 @@
+The dataset contains 3500 ecommerce sales records where each row represents one order It includes details such as the order date product name product category region where the sale happened quantity sold total sales amount and profit Overall the dataset shows how different products perform across regions and over time
+
+A possible machine learning task using this dataset is predicting sales or profit based on factors like product category region and quantity sold This could help businesses estimate future sales and make better decisions about what products to focus on or where to improve performance
